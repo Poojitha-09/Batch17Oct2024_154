@@ -1,3 +1,7 @@
+/* DESC : Check whether a given number can be expressed as the sum of two prime number 
+    by Naga Poojitha 
+    Date : 17,nov 2024 */
+
 #include<stdio.h>
 int isPrime(int n);
 int main()
